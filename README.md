@@ -1,18 +1,3 @@
-openai-api-function-call-sample
-======
-
-v0.0.2
-
-A sample app to demonstrate [Function calling](https://platform.openai.com/docs/guides/function-calling) using the latest format in [Chat Completions API](https://platform.openai.com/docs/guides/text-generation/chat-completions-api) and also in [Assistants API](https://platform.openai.com/docs/assistants/overview).
-
-This application is built using manual setup of Next.js 13.
-
----
-
-最新のフォーマットを使用した[Chat Completions API](https://platform.openai.com/docs/guides/text-generation/chat-completions-api)および[Assistants API](https://platform.openai.com/docs/assistants/overview)での「[function calling](https://platform.openai.com/docs/guides/function-calling)」をデモンストレーションするサンプルアプリケーション。
-
-このアプリケーションはNext.js 13の手動セットアップを使用して構築されています。
-
 
 **Updated**: Using [v4.18.0 OpenAI Node module](https://www.npmjs.com/package/openai)
 
